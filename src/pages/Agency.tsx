@@ -32,7 +32,7 @@ const projects = [
     cat: 'Événementiel / Festival',
     year: '2024',
     copy: 'Supports de communication et signalétique grand format pour le festival Viva.',
-    img: '/viva.jpeg',
+    img: '/viva-morocco.jpeg',
     type: 'event'
   },
   {
