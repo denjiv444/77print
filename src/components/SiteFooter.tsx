@@ -16,7 +16,11 @@ export function SiteFooter() {
           {/* About / Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <img src="/logo-transparent.png" alt="77print logo" className="h-12 w-auto object-contain" />
+              <img 
+                src="/logo-transparent.png" 
+                alt="77print logo" 
+                className="h-12 w-auto object-contain brightness-0 invert" 
+              />
             </div>
             <p className="text-sm text-brand-50 max-w-md leading-relaxed">
               77print — Studio d'infographie à Casablanca. Nous concevons des identités visuelles et des supports de communication efficaces et mémorables.
